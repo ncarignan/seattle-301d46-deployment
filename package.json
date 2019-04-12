@@ -1,0 +1,24 @@
+{
+  "name": "demo-deployment",
+  "version": "0.0.1",
+  "description": "301d46 express app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncarignan/seattle-301d46-deployment.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncarignan/seattle-301d46-deployment/issues"
+  },
+  "homepage": "https://github.com/ncarignan/seattle-301d46-deployment#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4"
+  }
+}
